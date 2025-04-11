@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&color=38BDF8&center=true&width=800&lines=🎮+Rami+Boughanmi;🚀+Game+Developer alt="Header Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&color=38BDF8&center=true&width=800&lines=🎮+Rami+Boughanmi;🚀+Game+Developer" alt="Header Animation">
 </h1>
 
 <p align="center">
