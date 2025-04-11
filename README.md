@@ -1,44 +1,50 @@
-<h1 align="center">
-  🎮 Rami Boughanmi
-</h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,react,nodejs,tailwind,github" />
+<p align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ6a3l2eTJrM2l3Z3QwY2N4Z2l1bGZ2N3U5Z2N3bHZxY3g5a3JxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"> 
 </p>
-
-<p align="center">
-  <strong>Game Developer | 3D Artist | Multiplayer Systems Designer</strong><br/>
-  <em>Delivering immersive, optimized, and interactive experiences using Unity, C#, and Blender</em>
-</p>
-
----
-
-## 🧠 About Me
-
-🎮 I’m a passionate Game Developer from Tunisia with experience in **Unity3D**, **Photon PUN2**, **C#**, and **AI systems**. I love creating **multiplayer games**, designing **enemy behavior**, and building **immersive 3D environments** using **Blender** and **Maya**.  
-
-🧰 My games are focused on **performance**, **engagement**, and **style**—whether you're sailing through lava levels or dodging jungle beasts, I make sure it plays smooth and feels alive.
-
-📦 Bonus: I have web development skills using **React**, **Tailwind**, **Node.js**—ideal for building online integrations, dashboards, or portals for games!
-
----
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎯 **Memory's Revengence** | Multiplayer 3D WebGL game with themed levels, AI enemies, and player boats | `Unity`, `C#`, `Photon`, `Blender` |
-| 📱 **Unity Education Apps** | 3D mini-games made for kids; led a team of 8 devs | `Unity`, `UI/UX`, `Animations` |
-| 🔫 **FPS Reskin (Internship)** | Reworked UI, animation, and design in multiplayer FPS | `Unity`, `Photon`, `Design` |
+| Project | Description | Tech Stack | Preview |
+|---------|-------------|------------|---------|
+| **Memory's Revengence** | Multiplayer WebGL game with AI enemies | `Unity` `C#` `Photon` `WebGL` | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFhdmFyb2NqN3F1b3F3d3N4c3E0OGx3aGk2aGd1b2R6M2Vna3A4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJCo1IQ6pAA/giphy.gif" width="200"> |
+| **Unity Education Apps** | 3D educational mini-games | `Unity` `UI/UX` `Animations` | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F4ZDN0bThjM3FqZ3J2bW5oM2J6dDl6M2x4d3Rud3R5a3p1Y3F4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpu0NwenH3O/giphy.gif" width="200"> |
+| **FPS Reskin** | Multiplayer FPS overhaul | `Photon` `C#` `UI Design` | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ3bDg3c3Z0Z2JvZ3R3M2J6Z3l2M2V5dDl6M2x4d3Rud3R5a3p1Y3F4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.gif" width="200"> |
 
-> 📎 [View my resume (PDF)](https://link-to-resume.com)
+## 🛠️ Core Skills
 
----
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Photon-FF1493?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+</p>
 
-## 🛠️ Skills
+## 📊 GitHub Stats
 
-```txt
-🎮 Unity 3D        🧠 AI Behavior (Detection/Attack)
-🧪 Photon PUN 2    🛠️ Object Pooling & Optimization
-🌍 Multiplayer      🎨 3D Modeling & Animation (Blender, Maya)
-📱 UI/UX Design    🌐 Web (React, Tailwind, Node.js)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Rami78453&show_icons=true&theme=tokyonight" width="49%"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rami78453&theme=tokyonight" width="49%"> 
+</p>
+
+## 📬 Let's Connect
+
+<p align="center"> 
+  <a href="https://linkedin.com/in/rami-boughanmi-/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a> 
+  <a href="mailto:ramiboughanmi2@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+  </a> 
+  <a href="https://github.com/Rami78453"> 
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"> 
+  </a> 
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=38BDF8&center=true&width=600&lines=🚀+Next+Milestone:+Advanced+AI+Pathfinding;🎯+Current+Focus:+WebGL+Optimization;💡+Learning:+Shader+Programming" alt="Status Animation">
+</p>
