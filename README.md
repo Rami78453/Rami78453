@@ -40,12 +40,12 @@ Passionate about creating immersive worlds with optimized gameplay mechanics
     </td>
     <td width="33%">
       <h3>Level 2</h3>
-     
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Nzd2s4d2h6b2R2Z2N1b2Z1aG5jM2V3bHZxY3g5a3JxbnU0aGxxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGr6jqk7Nqk9uOY/giphy.gif" width="100%">
       <p>🐧 Snowball trajectory system<br>❄️ Dynamic blizzard effects<br>🐻 Bear patrol pathfinding</p>
     </td>
     <td width="33%">
       <h3>Level 3</h3>
-     
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Nzd2s4d2h6b2R2Z2N1b2Z1aG5jM2V3bHZxY3g5a3JxbnU0aGxxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGr6jqk7Nqk9uOY/giphy.gif" width="100%">
       <p>🔥 Volcanic particle systems<br>🐉 Dragon flame patterns<br>🌋 Procedural lava flows</p>
     </td>
   </tr>
