@@ -9,7 +9,7 @@
   + Specializing in multiplayer game architecture
   + AI behavior systems enthusiast
   + Performance optimization expert
-  ! Currently accepting collaboration requests
+   Currently accepting collaboration requests
 </div>
 🛠️ Core Stack
 <p align="center"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Photon-FF1493?style=for-the-badge&logo=photon&logoColor=white"> <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </p>
