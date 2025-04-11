@@ -35,7 +35,7 @@ Passionate about creating immersive worlds with optimized gameplay mechanics
   <tr>
     <td width="33%">
       <h3>Level 1</h3>
-      
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Nzd2s4d2h6b2R2Z2N1b2Z1aG5jM2V3bHZxY3g5a3JxbnU0aGxxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGr6jqk7Nqk9uOY/giphy.gif" width="100%">
       <p>🌳 Pooled falling trees<br>🦈 Circle-based shark AI<br>🌀 River current mechanics</p>
     </td>
     <td width="33%">
